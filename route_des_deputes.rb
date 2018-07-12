@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'rubygems'
 
-deputy_list = {}
+
 def return_url
   url = []
 doc = Nokogiri::HTML(open('https://www.nosdeputes.fr/deputes'))
