@@ -36,6 +36,7 @@ def perform
   somefile = File.open(fname,"w")
   somefile.puts liste_crypto
   somefile.close
+  sleep (60)
 end
 
 perform
