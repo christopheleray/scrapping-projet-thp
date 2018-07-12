@@ -1,0 +1,5 @@
+gem 'whenever'
+gem 'pry'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'rubygems'

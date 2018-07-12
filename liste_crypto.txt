@@ -1,0 +1,3260 @@
+Bitcoin
+$6200.86
+Ethereum
+$432.38
+XRP
+$0.434833
+Bitcoin Cash
+$682.27
+EOS
+$6.81
+Litecoin
+$76.45
+Stellar
+$0.181160
+Cardano
+$0.126040
+IOTA
+$0.959214
+Tether
+$1.00
+TRON
+$0.032186
+NEO
+$31.46
+Monero
+$121.33
+Dash
+$208.94
+Ethereum Classic
+$16.07
+NEM
+$0.159386
+Binance Coin
+$12.13
+Tezos
+$2.00
+VeChain
+$2.10
+OmiseGO
+$6.85
+Qtum
+$7.72
+Zcash
+$153.34
+Lisk
+$4.93
+ICON
+$1.35
+Bytecoin
+$0.002748
+Ontology
+$3.29
+Zilliqa
+$0.064862
+Bitcoin Gold
+$25.63
+Decred
+$56.61
+0x
+$0.773917
+BitShares
+$0.154591
+DigiByte
+$0.037812
+Aeternity
+$1.68
+Maker
+$554.80
+Siacoin
+$0.010150
+Augur
+$30.98
+Steem
+$1.27
+Verge
+$0.021411
+Bitcoin Diamond
+$1.98
+Bytom
+$0.301628
+Nano
+$2.26
+KuCoin Shares
+$3.16
+Waltonchain
+$6.94
+Pundi X
+$0.003168
+Dogecoin
+$0.002314
+Basic Attenti...
+$0.263280
+Waves
+$2.57
+Golem
+$0.286781
+RChain
+$0.660471
+Stratis
+$2.29
+Status
+$0.064805
+Populous
+$5.97
+Wanchain
+$1.97
+Hshare
+$4.70
+Mixin
+$430.15
+DigixDAO
+$89.62
+Bitcoin Private
+$8.52
+IOST
+$0.019582
+Mithril
+$0.486251
+Komodo
+$1.51
+Huobi Token
+$3.02
+Aion
+$0.886235
+GXChain
+$2.47
+MaidSafeCoin
+$0.327467
+Loopring
+$0.255124
+Nebulas
+$3.18
+Ardor
+$0.144501
+aelf
+$0.547432
+Ark
+$1.24
+MonaCoin
+$2.04
+FunFair
+$0.024175
+ReddCoin
+$0.004028
+Kyber Network
+$0.853819
+Emercoin
+$2.64
+Loom Network
+$0.181274
+Dentacoin
+$0.000333
+MCO
+$6.77
+Cryptonex
+$2.35
+WAX
+$0.113924
+Bancor
+$2.05
+Dropil
+$0.005209
+Gas
+$10.19
+MOAC
+$2.82
+Kin
+$0.000134
+PIVX
+$1.78
+Power Ledger
+$0.269346
+Ethos
+$1.30
+Nuls
+$2.47
+Decentraland
+$0.093341
+Veritaseum
+$47.74
+CyberMiles
+$0.139637
+Paypex
+$1.37
+QASH
+$0.264969
+Polymath
+$0.321985
+ZenCash
+$20.65
+Enigma
+$1.16
+Factom
+$9.94
+ZCoin
+$16.26
+Cortex
+$0.558382
+Elastos
+$15.77
+Nxt
+$0.081246
+Noah Coin
+$0.002446
+Theta Token
+$0.120171
+TrueUSD
+$0.998791
+Electroneum
+$0.010762
+Nexus
+$1.35
+SmartCash
+$0.074486
+Centrality
+$0.095626
+Syscoin
+$0.140640
+Substratum
+$0.195863
+Gifto
+$0.140081
+Scry.info
+$0.217715
+Byteball Bytes
+$113.89
+Bibox Token
+$0.700769
+WaykiChain
+$0.412091
+Storm
+$0.015723
+ChainLink
+$0.201145
+TenX
+$0.608718
+ODEM
+$0.367398
+Fusion
+$2.17
+Game.com
+$0.083749
+Matrix AI Net...
+$0.424557
+Dragonchain
+$0.265547
+TokenPay
+$4.09
+Skycoin
+$6.28
+High Performa...
+$1.85
+SALT
+$0.975901
+Iconomi
+$0.579523
+Civic
+$0.166839
+Blocknet
+$10.79
+Storj
+$0.410601
+Santiment Net...
+$0.889150
+SingularityNET
+$0.102798
+iExec RLC
+$0.681626
+CyberVein
+$0.050460
+Revain
+$0.283916
+Dai
+$0.993257
+Metaverse ETP
+$1.44
+MediShares
+$0.051459
+Neblio
+$3.90
+Nucleus Vision
+$0.011726
+Holo
+$0.000385
+DeepBrain Chain
+$0.033887
+BnkToTheFuture
+$0.080102
+Nexo
+$0.088221
+Achain
+$0.086108
+SmartMesh
+$0.033634
+Time New Bank
+$0.019911
+Nexty
+$0.000450
+Bluzelle
+$0.250829
+Streamr DATAcoin
+$0.067081
+Particl
+$4.52
+Request Network
+$0.064923
+Gnosis
+$40.84
+TaTaTu
+$0.465548
+Aragon
+$1.58
+Enjin Coin
+$0.058399
+Ignis
+$0.056593
+Cindicator
+$0.029722
+SONM
+$0.117047
+Dent
+$0.003951
+Ruff
+$0.045171
+Bottos
+$0.081475
+Arcblock
+$0.430715
+Vertcoin
+$0.889441
+THEKEY
+$0.008516
+Dynamic Tradi...
+$0.032764
+Quantstamp
+$0.063570
+Ambrosus
+$0.270441
+Storiqa
+$0.004882
+Groestlcoin
+$0.545630
+Asch
+$0.406211
+Credits
+$0.273258
+CRYPTO20
+$0.943747
+True Chain
+$0.802829
+SIRIN LABS Token
+$0.162423
+All Sports
+$0.043628
+Raiden Networ...
+$0.731309
+Sakura Bloom
+$0.014188
+Po.et
+$0.015740
+PRIZM
+$1.08
+DEW
+$0.350635
+Docademic
+$0.168761
+BLOCKv
+$0.018282
+Ubiq
+$0.857533
+DigitalNote
+$0.005149
+Aston
+$0.042936
+Pillar
+$0.135482
+Cube
+$0.005551
+Bread
+$0.391340
+Safe Exchange...
+$0.022429
+Bitcoin Interest
+$1.88
+EDUCare
+$0.076329
+POA Network
+$0.155869
+eosDAC
+$0.050988
+ZClassic
+$7.65
+Peercoin
+$1.35
+Genaro Network
+$0.132270
+Mainframe
+$0.014994
+Telcoin
+$0.001033
+Selfkey
+$0.013940
+Tokenomy
+$0.218738
+BridgeCoin
+$1.18
+Crypterium
+$0.400779
+DAEX
+$0.084638
+SophiaTX
+$0.162614
+Odyssey
+$0.006560
+Primecoin
+$1.25
+BOScoin
+$0.067665
+Metal
+$1.20
+bitCNY
+$0.160001
+Apex
+$0.069228
+Unobtanium
+$148.56
+Trade Token
+$0.328581
+Nectar
+$0.358493
+DATA
+$0.006364
+IHT Real Esta...
+$0.059039
+GoChain
+$0.058808
+Ink
+$0.061809
+GameCredits
+$0.440896
+Edgeless
+$0.293499
+QuarkChain
+$0.078172
+Red Pulse
+$0.034230
+IoTeX
+$0.024172
+Endor Protocol
+$0.052149
+LGO Exchange
+$0.226998
+KickCoin
+$0.054752
+NKN
+$0.183054
+Electra
+$0.001022
+WhiteCoin
+$0.107504
+ETHLend
+$0.024275
+Genesis Vision
+$7.14
+Stakenet
+$0.381688
+Rock
+$0.067376
+BitBay
+$0.025842
+Ternio
+$0.063436
+AdEx
+$0.349256
+OriginTrail
+$0.095053
+Eidoo
+$0.866982
+NavCoin
+$0.400248
+Burst
+$0.012847
+Bitcore
+$1.60
+Hydro
+$0.008093
+Einsteinium
+$0.112795
+IoT Chain
+$0.406426
+TokenCard
+$1.00
+Jibrel Network
+$0.150216
+MinexCoin
+$6.00
+UTRUST
+$0.076141
+FairCoin
+$0.440075
+SpankChain
+$0.077565
+Viacoin
+$0.997375
+Distributed C...
+$0.026137
+SwftCoin
+$0.006235
+Hydro Protocol
+$0.032271
+Wagerr
+$0.122965
+OST
+$0.063260
+Tao
+$0.679660
+Litecoin Cash
+$0.038171
+LoyalCoin
+$0.004461
+AirSwap
+$0.146697
+Internet Node...
+$0.074341
+SaluS
+$21.64
+Delphy
+$0.511481
+Gulden
+$0.054295
+NANJCOIN
+$0.001111
+Republic Prot...
+$0.037653
+PCHAIN
+$0.048797
+Universa
+$0.011337
+SingularDTV
+$0.034629
+Quantum Resis...
+$0.397552
+Eximchain
+$0.307012
+TomoChain
+$0.375126
+district0x
+$0.034237
+BABB
+$0.000976
+PayPie
+$0.246253
+Cryptaur
+$0.002983
+Ripio Credit ...
+$0.040715
+BitRent
+$0.023472
+Covesting
+$1.10
+ATN
+$0.227682
+APIS
+$0.004300
+Aeon
+$1.19
+MobileGo
+$0.190777
+AppCoins
+$0.185870
+Counterparty
+$7.09
+FuzeX
+$0.025313
+Lympo
+$0.025406
+Namecoin
+$1.24
+Ravencoin
+$0.014611
+Modum
+$0.978379
+Wings
+$0.197782
+WePower
+$0.039423
+MARK.SPACE
+$0.039440
+Linda
+$0.001928
+Aurora DAO
+$0.129702
+CloakCoin
+$3.34
+CPChain
+$0.059449
+0chain
+$0.428956
+YEE
+$0.012385
+Feathercoin
+$0.081824
+Tierion
+$0.039424
+OneRoot Network
+$0.069710
+GINcoin
+$7.55
+ION
+$0.779304
+LBRY Credits
+$0.100333
+United Trader...
+$0.445376
+Presearch
+$0.106671
+Steem Dollars
+$1.07
+INS Ecosystem
+$0.542373
+Spectre.ai Di...
+$0.199041
+Havven
+$0.258125
+DATx
+$0.011698
+TokenClub
+$0.033712
+Credo
+$0.029250
+Mothership
+$0.114671
+Stox
+$0.367390
+Lunyr
+$6.94
+Etherparty
+$0.032757
+PACcoin
+$0.003859
+DECENT
+$0.309642
+Mobius
+$0.042160
+iXledger
+$0.441458
+CasinoCoin
+$0.000433
+Banca
+$0.000862
+ugChain
+$0.027088
+Zeepin
+$0.030716
+WaBi
+$0.338650
+OracleChain
+$0.510590
+HTMLCOIN
+$0.000232
+MediBloc [ERC20]
+$0.005638
+Peerplays
+$3.36
+Zebi
+$0.031226
+Phore
+$1.07
+TaaS
+$1.79
+Ivy
+$0.046723
+Blox
+$0.021981
+NAGA
+$0.250301
+Dock
+$0.037388
+Bezant
+$0.060036
+Decision Token
+$0.449385
+Hive Project
+$0.037914
+MediBloc [QRC20]
+$0.004772
+LEOcoin
+$0.137990
+Primas
+$0.274061
+YOYOW
+$0.051188
+ECC
+$0.000558
+TrustNote
+$0.046061
+Cashaa
+$0.031064
+Melon
+$22.64
+Datum
+$0.014945
+Experience Po...
+$0.000057
+TE-FOOD
+$0.027800
+VIBE
+$0.066966
+Cobinhood
+$0.036775
+LinkEye
+$0.022154
+BlockMason Cr...
+$0.179248
+Sentinel
+$0.006580
+BrahmaOS
+$0.021218
+Pura
+$0.075253
+Swarm
+$0.256205
+Bankex
+$0.174972
+CEEK VR
+$0.037152
+Envion
+$0.115897
+XinFin Network
+$0.003519
+Blackmoon
+$0.601764
+CashBet Coin
+$0.132612
+QLINK
+$0.051909
+XMax
+$0.002246
+AICHAIN
+$0.023051
+FirstBlood
+$0.142895
+Qbao
+$0.185831
+Viberate
+$0.070528
+Quantum
+$0.160617
+bitUSD
+$1.07
+Elastic
+$0.128745
+XTRABYTES
+$0.027384
+Humaniq
+$0.062815
+Pepe Cash
+$0.016549
+Unikoin Gold
+$0.081461
+Electrify.Asia
+$0.026291
+Triggers
+$0.356285
+Oyster
+$0.134364
+Mercury
+$0.113325
+Shift
+$0.918064
+QunQun
+$0.013837
+Fortuna
+$0.026652
+LIFE
+$0.000124
+HempCoin
+$0.047768
+Zeusshield
+$0.009519
+Synereo
+$0.108791
+Soarcoin
+$0.010099
+Bismuth
+$0.971660
+SelfSell
+$0.027541
+SHIELD
+$0.020834
+Ormeus Coin
+$0.621035
+Karma
+$0.005878
+Maecenas
+$0.266412
+Constellation
+$0.017443
+Everex
+$0.625393
+Bloom
+$0.216033
+DeepOnion
+$0.655818
+ColossusXT
+$0.000933
+COSS
+$0.086117
+Smartlands
+$2.00
+Cofound.it
+$0.031369
+U Network
+$0.001721
+PotCoin
+$0.045509
+SpaceChain
+$0.019251
+Rialto
+$0.128619
+Pascal Coin
+$0.452291
+Olympus Labs
+$0.261344
+Boolberry
+$0.826063
+Propy
+$0.496369
+Neurotoken
+$0.118596
+Polybius
+$2.40
+Medicalchain
+$0.051036
+STK
+$0.027591
+DecentBet
+$0.072694
+Datawallet
+$0.024107
+Alphacat
+$0.003369
+Bitcoin Green
+$2.34
+Moeda Loyalty...
+$0.477189
+DADI
+$0.122458
+ProChain
+$0.187601
+GridCoin
+$0.023792
+XYO Network
+$0.002030
+Chronobank
+$12.97
+DeviantCoin
+$1.42
+Crowd Machine
+$0.020349
+Oxycoin
+$0.082535
+Dimecoin
+$0.000017
+Diamond
+$3.15
+BlackCoin
+$0.116919
+LATOKEN
+$0.110512
+Incent
+$0.194499
+LUXCoin
+$4.47
+E-Dinar Coin
+$0.010076
+Merculet
+$0.009190
+RevolutionVR
+$0.042127
+AI Doctor
+$0.019587
+MonetaryUnit
+$0.063984
+adToken
+$0.014435
+Smartshare
+$0.003136
+Bodhi
+$0.214059
+Proxeus
+$0.043090
+Trinity Netwo...
+$0.025319
+SureRemit
+$0.016876
+SunContract
+$0.070114
+Rate3
+$0.019508
+Restart Energ...
+$0.019908
+DIMCOIN
+$0.003975
+Uquid Coin
+$0.831999
+VeriCoin
+$0.266569
+Clams
+$2.65
+Refereum
+$0.003482
+Bean Cash
+$0.003162
+Databits
+$0.359408
+Neumark
+$0.282791
+Lamden
+$0.056848
+Crown
+$0.419461
+Blocktix
+$0.201226
+Switcheo
+$0.015190
+ALQO
+$0.157034
+Monetha
+$0.036435
+Expanse
+$0.752069
+ALAX
+$0.023616
+OAX
+$0.308070
+Mooncoin
+$0.000034
+CoinPoker
+$0.026398
+carVertical
+$0.001347
+Numeraire
+$5.66
+Radium
+$2.18
+DMarket
+$0.151042
+AurumCoin
+$25.20
+Callisto Network
+$0.017838
+Measurable Da...
+$0.019700
+Aeron
+$0.570684
+Matchpool
+$0.098339
+NewYorkCoin
+$0.000055
+LockTrip
+$0.785187
+Gems 
+$0.006312
+Etheroll
+$1.03
+SRCOIN
+$0.001431
+SIBCoin
+$0.427451
+ATMChain
+$0.001519
+Agrello
+$0.082202
+Hi Mutual Soc...
+$0.017405
+Divi
+$1.13
+The ChampCoin
+$0.041944
+Banyan Network
+$0.023442
+NoLimitCoin
+$0.032875
+Paragon
+$0.103725
+I/O Coin
+$0.402716
+SwissBorg
+$0.011728
+DubaiCoin
+$3.02
+Energo
+$0.011182
+Phantasma
+$0.114956
+StrongHands
+$3.5e-07
+Hacken
+$1.25
+Flash
+$0.007372
+Remme
+$0.011005
+Russian Miner...
+$4323.31
+Rubycoin
+$0.246592
+SolarCoin
+$0.141393
+Sumokoin
+$1.03
+Cappasity
+$0.013124
+Nework
+$0.042027
+Omni
+$11.05
+NaPoleonX
+$0.243801
+Bulwark
+$0.716419
+The Abyss
+$0.029316
+Friendz
+$0.012069
+Dynamic
+$1.22
+Matryx
+$0.260844
+Bitcoin Atom
+$0.333253
+EchoLink
+$0.016145
+Hexx
+$3.56
+CVCoin
+$0.601562
+Novacoin
+$2.78
+Rise
+$0.046467
+NeosCoin
+$1.51
+UpToken
+$0.040031
+AdHive
+$0.052263
+Blockport
+$0.112197
+Global Curren...
+$0.055884
+Nebula AI
+$0.004930
+ZrCoin
+$1.44
+HeroNode
+$0.012415
+PolicyPal Net...
+$0.014908
+InsurePal
+$0.027539
+Patron
+$0.024042
+Sprouts
+$3.5e-07
+Rivetz
+$0.208114
+MedicCoin
+$0.028001
+Fluz Fluz
+$0.026627
+EnergiToken
+$0.004778
+Myriad
+$0.003400
+Leverj
+$0.045651
+DomRaider
+$0.009094
+FlorinCoin
+$0.036858
+ShipChain
+$0.027838
+DNotes
+$0.039243
+REBL
+$0.031034
+indaHash
+$0.013212
+DAOstack
+$0.141867
+RED
+$0.040235
+Silent Notary
+$0.000063
+Clipper Coin
+$0.007257
+Origin Sport
+$0.119057
+PikcioChain
+$0.123359
+Rentberry
+$0.017169
+Elixir
+$0.162024
+aXpire
+$0.019268
+Faceter
+$0.010974
+Aphelion
+$0.138888
+Stealth
+$0.173477
+Gambit
+$4.39
+Effect.AI
+$0.024451
+EXRNchain
+$0.000055
+Unibright
+$0.036856
+LatiumX
+$0.059452
+Shivom
+$0.015540
+GET Protocol
+$0.433289
+PolySwarm
+$0.003246
+Fidelium
+$0.042378
+Change
+$0.130328
+Aventus
+$0.806035
+Digitex Futures
+$0.006898
+HollyWoodCoin
+$0.755253
+Nexium
+$0.072513
+AirToken
+$0.004589
+InvestFeed
+$0.025164
+Musicoin
+$0.006191
+Xaurum
+$0.037696
+BitSend
+$0.237265
+OKCash
+$0.063227
+Eroscoin
+$0.025041
+Hurify
+$0.027532
+Sequence
+$0.099750
+Graft
+$0.014807
+Zap
+$0.039550
+Travelflex
+$0.056433
+LoMoCoin
+$0.018650
+Swarm City
+$0.534800
+CargoX
+$0.034203
+B2BX
+$0.269779
+APX
+$6.26
+ShareX
+$0.006816
+FoldingCoin
+$0.007071
+Loki
+$0.201552
+Golos
+$0.034926
+BitTube
+$0.067961
+Debitum
+$0.022353
+BitDegree
+$0.011902
+AidCoin
+$0.104650
+IDEX Membership
+$2080.33
+LALA World
+$0.021767
+Dotcoin
+$0.013197
+Waves Communi...
+$0.411797
+Spectrecoin
+$0.195756
+Everus
+$0.026784
+Pandacoin
+$0.000124
+CanYaCoin
+$0.095812
+CFun
+$0.009307
+Nimiq Exchang...
+$0.380031
+Patientory
+$0.056798
+Playkey
+$0.291527
+Sentinel Chain
+$0.020033
+Sharder
+$0.013867
+Solaris
+$2.71
+Helbiz
+$0.007080
+PinkCoin
+$0.010080
+Zilla
+$0.099975
+Dovu
+$0.048118
+DAO.Casino
+$0.022922
+ClearPoll
+$0.546774
+Pirl
+$0.178314
+MaxCoin
+$0.061774
+Bitcrystals
+$0.163180
+Hubii Network
+$0.277757
+Snovio
+$0.009259
+Profile Utili...
+$0.082467
+Bounty0x
+$0.024826
+TrueFlip
+$0.591522
+Energycoin
+$0.030173
+Flixxo
+$0.046112
+1World
+$0.177497
+Pareto Network
+$0.014781
+NPER
+$0.072412
+Polis
+$1.28
+adbank
+$0.007208
+Morpheus Labs
+$0.020415
+Primalbase Token
+$2881.99
+Colu Local Ne...
+$0.033981
+MktCoin
+$0.003044
+Bezop
+$0.064891
+CommerceBlock
+$0.020331
+Curecoin
+$0.147106
+Mysterium
+$0.150002
+Local World F...
+$0.036554
+XPA
+$0.060550
+EncrypGen
+$0.055377
+GoByte
+$1.74
+WeTrust
+$0.037169
+JET8
+$0.007528
+MyBit Token
+$0.048699
+Bee Token
+$0.019899
+Ink Protocol
+$0.018954
+ToaCoin
+$0.001306
+BitClave
+$0.006654
+Auroracoin
+$0.381663
+VeriME
+$0.020001
+BitcoinZ
+$0.001497
+ALIS
+$0.083922
+CoinFi
+$0.018797
+Circuits of V...
+$0.003222
+Pluton
+$3.79
+BitConnect
+$0.330392
+Privatix
+$2.69
+Mintcoin
+$0.000124
+ATBCoin
+$0.073437
+Linker Coin
+$0.027261
+Zippie
+$0.015750
+Stipend
+$0.423300
+Leadcoin
+$0.003802
+Blue Protocol
+$0.081183
+Spectiv
+$0.010511
+Peculium
+$0.003120
+Devery
+$0.046365
+Experty
+$0.106763
+Syndicate
+$0.147712
+Masari
+$0.452468
+Payfair
+$0.032152
+Hackspace Cap...
+$0.008637
+Gladius Token
+$0.198434
+Block Array
+$0.040605
+ArtByte
+$0.003473
+Lendingblock
+$0.004626
+Astro
+$0.821748
+BitStation
+$0.000785
+0xBitcoin
+$0.905728
+Vezt
+$0.045855
+Kore
+$1.31
+2GIVE
+$0.005096
+Cryptopay
+$0.038927
+Global Crypto...
+$0.002360
+Insights Network
+$0.020362
+Yocoin
+$0.023106
+Open Trading ...
+$1.33
+HOQU
+$0.017005
+Sharechain
+$0.000991
+Bitcoin Plus
+$22.44
+SpreadCoin
+$0.243095
+GeoCoin
+$0.780599
+Tokes
+$0.729163
+Altcoin
+$19.93
+HiCoin
+$0.000548
+Dether
+$0.033376
+GoldCoin
+$0.058632
+Internet of P...
+$0.683961
+Worldcore
+$0.013442
+IP Exchange
+$0.002983
+Sociall
+$0.142323
+Indorse Token
+$0.064198
+Dero
+$0.797683
+Vice Industry...
+$0.010187
+Auctus
+$0.139529
+Travala
+$0.085363
+ATLANT
+$0.061575
+Haven Protocol
+$0.658492
+AdShares
+$0.115053
+Neutron
+$0.060174
+NuBits
+$0.197754
+Aditus
+$0.009392
+Sphere
+$0.711753
+LOCIcoin
+$0.060028
+Thrive Token
+$0.024212
+Zoin
+$0.120964
+SportyCo
+$0.041131
+EuropeCoin
+$0.214988
+Rupaya
+$0.074033
+Social Send
+$0.067292
+FundRequest
+$0.068595
+Sharpe Platfo...
+$0.125426
+Bela
+$0.057803
+BunnyCoin
+$0.000021
+Sether
+$0.122906
+FLIP
+$0.047142
+Education Eco...
+$0.009636
+Publica
+$0.112917
+Terracoin
+$0.091170
+Upfiring
+$0.117296
+FedoraCoin
+$0.000010
+VeriumReserve
+$1.23
+Qwark
+$0.035377
+Riecoin
+$0.047149
+Universal Cur...
+$0.142565
+Oyster Shell
+$0.024215
+HelloGold
+$0.007769
+Breakout Stake
+$0.325945
+Zephyr
+$0.016202
+Capricoin
+$1.02
+TransferCoin
+$0.311210
+Anoncoin
+$0.961065
+COPYTRACK
+$0.087650
+BioCoin
+$0.003074
+Spectre.ai Ut...
+$0.079911
+Utrum
+$0.060491
+DopeCoin
+$0.016744
+eBoost
+$0.097581
+EZToken
+$0.168991
+FintruX Network
+$0.034485
+Memetic / Pep...
+$0.083736
+ExclusiveCoin
+$0.403335
+Paymon
+$0.003072
+Internxt
+$2.98
+Voise
+$0.003594
+Karbo
+$0.303160
+CryptoCarbon
+$0.075381
+Tokia
+$0.043832
+APR Coin
+$0.601570
+Gatcoin
+$0.003416
+Bonpay
+$0.159829
+TrakInvest
+$0.021187
+Maverick Chain
+$0.017454
+Digix Gold Token
+$41.14
+Coinlancer
+$0.024703
+On.Live
+$0.084728
+Ethorse
+$0.016522
+Mercury Protocol
+$0.009731
+Naviaddress
+$0.006768
+HEROcoin
+$0.013605
+CannabisCoin
+$0.021091
+B3Coin
+$0.002233
+MyWish
+$0.086235
+Iungo
+$0.039796
+AMLT
+$0.018679
+Parkgene
+$0.005614
+Elite
+$0.000060
+CampusCoin
+$0.003530
+Uniform Fisca...
+$0.000430
+BiblePay
+$0.002002
+FlypMe
+$0.086739
+Aigang
+$0.072237
+FORCE
+$0.012030
+Sexcoin
+$0.011572
+Viuly
+$0.001860
+Denarius
+$0.445416
+PoSW Coin
+$0.031288
+Sugar Exchange
+$0.072565
+Chainium
+$0.023126
+Hush
+$0.309063
+Bigbom
+$0.004407
+CryptoPing
+$0.131846
+Forty Seven Bank
+$0.373549
+Breakout
+$0.068911
+BuzzCoin
+$0.000062
+Daneel
+$0.034939
+e-Gulden
+$0.070107
+EverGreenCoin
+$0.085801
+Stellar Holdings
+$0.001611
+Lampix
+$0.008503
+XGOX
+$0.000483
+onG.social
+$0.034402
+Autonio
+$0.016757
+PutinCoin
+$0.002575
+Fabric Token
+$0.046298
+BlitzPredict
+$0.003204
+StarterCoin
+$0.003988
+eBitcoin
+$0.059519
+Bob's Repair
+$0.014234
+Pylon Network
+$3.05
+Kobocoin
+$0.043803
+Argentum
+$0.110096
+BoutsPro
+$0.014108
+SkinCoin
+$0.012196
+Ergo
+$2.70
+Hat.Exchange
+$0.740943
+MicroMoney
+$0.094791
+808Coin
+$0.000007
+PlatinumBAR
+$0.953199
+Nullex
+$0.025710
+Ace
+$0.112287
+Creativecoin
+$0.068377
+KanadeCoin
+$0.000186
+RefToken
+$1.38
+Tracto
+$0.037443
+PHI Token
+$0.199538
+BitWhite
+$0.027410
+Galactrum
+$0.582839
+Vsync
+$0.006181
+Condensate
+$0.004250
+Invacio
+$0.020342
+SyncFab
+$0.006957
+TrustPlus
+$0.029429
+LiteDoge
+$0.000062
+42-coin
+$22326.00
+IncaKoin
+$0.000059
+IntenseCoin
+$0.002169
+Amon
+$0.004652
+DigiPulse
+$0.408663
+Stellite
+$0.000310
+TokenStars
+$0.092433
+Zero
+$0.298443
+Monoeci
+$0.179356
+Magi
+$0.109725
+Xenon
+$0.002952
+TrezarCoin
+$0.009167
+Sovereign Hero
+$181.51
+GoldMint
+$0.450050
+DraftCoin
+$0.108043
+FantasyGold
+$0.131967
+Blocklancer
+$0.007097
+DigitalPrice
+$0.042852
+CryCash
+$0.185460
+Photon
+$0.000035
+Creditbit
+$0.049952
+Miners' Rewar...
+$0.080752
+Vulcano
+$0.000247
+Live Stars
+$0.020012
+OP Coin
+$0.000432
+Bytecent
+$0.357178
+Bitmark
+$0.085871
+HireMatch
+$0.023397
+Adzcoin
+$0.016947
+Machinecoin
+$0.034695
+EtherSportz
+$0.150114
+STRAKS
+$0.117084
+Earth Token
+$0.003476
+Signals Network
+$0.008152
+EquiTrader
+$0.064112
+Tidex Token
+$0.072137
+WandX
+$0.055912
+Tigereum
+$0.045289
+NEVERDIE
+$0.016435
+MAZA
+$0.000619
+InflationCoin
+$0.000014
+Ignition
+$0.837375
+BriaCoin
+$0.838700
+Magnet
+$0.020656
+Bitzeny
+$0.008141
+UnbreakableCoin
+$0.269782
+Dix Asset
+$0.000006
+VIVO
+$0.268044
+FirstCoin
+$0.019460
+Ellaism
+$0.062892
+PeepCoin
+$0.000033
+Growers Inter...
+$0.502899
+bitJob
+$0.012400
+Kolion
+$0.804087
+Biotron
+$0.017922
+vTorrent
+$0.047582
+Datarius Credit
+$0.004220
+Innova
+$0.133206
+Suretly
+$2.37
+Emphy
+$0.065264
+Zilbercoin
+$0.060531
+Linx
+$0.018959
+Bitdeal
+$0.002856
+ELTCOIN
+$0.005501
+Onix
+$0.004523
+Advanced Tech...
+$0.019263
+Numus
+$0.173010
+Shekel
+$0.004293
+DCORP Utility
+$0.132473
+More Coin
+$0.226929
+ZINC
+$0.142991
+RouletteToken
+$0.043555
+StarCredits
+$0.096838
+Wild Crypto
+$0.017856
+DeusCoin
+$0.038724
+FujiCoin
+$0.000312
+TokenDesk
+$0.039834
+Bata
+$0.080749
+Equal
+$0.001239
+Soma
+$0.066913
+SagaCoin
+$0.089433
+MCAP
+$0.035619
+Zetacoin
+$0.002196
+Plancoin
+$0.065054
+Cashcoin
+$0.007430
+Mao Zedong
+$0.055761
+Happycoin
+$0.023517
+WhaleCoin
+$0.032959
+Qvolta
+$0.045666
+Jetcoin
+$0.048077
+Transcodium
+$0.009100
+Centurion
+$0.004093
+iEthereum
+$0.016903
+Phoenixcoin
+$0.004399
+Bitcoin Scrypt
+$0.017038
+Veros
+$0.023044
+Bitsum
+$0.000310
+Sparks
+$0.100686
+bitGold
+$1399.11
+Pure
+$0.015551
+ProCurrency
+$0.002416
+Emerald Crypto
+$0.012453
+Kubera Coin
+$0.002055
+WCOIN
+$0.064819
+Netko
+$0.039516
+PureVidz
+$0.001797
+HOdlcoin
+$0.001363
+ArbitrageCT
+$0.002459
+Bitcurrency
+$0.001301
+BelugaPay
+$0.043250
+GreenMed
+$0.018578
+AdCoin
+$0.031531
+Qbic
+$0.081528
+Tigercoin
+$0.004647
+Litecoin Plus
+$0.124036
+Crystal Clear 
+$0.038475
+CarTaxi Token
+$0.004758
+TEKcoin
+$0.000125
+CryptoInsight
+$0.012975
+CrowdCoin
+$0.051340
+Octoin Coin
+$0.371100
+WavesGo
+$0.017019
+Cryptojacks
+$0.000373
+Bank Coin
+$0.023791
+EagleCoin
+$0.063505
+Garlicoin
+$0.013278
+High Voltage
+$0.066975
+Solarflarecoin
+$0.006072
+Fitrova
+$0.000009
+Peerguess
+$0.002354
+Desire
+$0.018741
+Master Swiscoin
+$0.001152
+Beatcoin
+$0.029428
+Escroco
+$0.019082
+LiteBitcoin
+$0.001308
+SpeedCash
+$0.068481
+ZetaMicron
+$0.000062
+Wild Beast Block
+$0.190206
+Asiadigicoin
+$0.001363
+GeyserCoin
+$0.677686
+Cabbage
+$0.002974
+HealthyWormCoin
+$0.000248
+BitAsean
+$0.005190
+Coupecoin
+$0.000062
+SocialCoin
+$0.009046
+WomenCoin
+$0.000062
+HarmonyCoin
+$0.004041
+BitcoinDark
+$41.59
+Lykke
+$0.059922
+Grid+
+$0.302749
+BetterBetting
+$0.043085
+bitqy
+$0.002123
+KiloCoin
+$0.031668
+Ecobit
+$0.012738
+MUSE
+$0.370777
+U.CASH
+$0.002828
+BitDice
+$0.074347
+ICOS
+$9.88
+Espers
+$0.000186
+Hedge
+$1.05
+Morpheus Network
+$0.129585
+OBITS
+$0.231207
+CHIPS
+$0.171797
+HEAT
+$0.099192
+Monkey Project
+$3.02
+AsiaCoin
+$0.002045
+Target Coin
+$0.003098
+Pesetacoin
+$0.020026
+Atmos
+$0.025402
+Starta
+$0.489392
+Ties.DB
+$0.061894
+Goodomy
+$0.003925
+REAL
+$0.238579
+FidentiaX
+$0.021878
+vSlice
+$0.065116
+Zeitcoin
+$0.000055
+imbrex
+$0.206161
+Sense
+$0.011078
+Opus
+$0.012391
+Blockpool
+$0.077817
+Guaranteed Et...
+$0.005605
+BlockCAT
+$0.218148
+Quark
+$0.006192
+Bitcloud
+$0.064948
+HyperStake
+$0.001164
+Fantomcoin
+$0.202372
+Starbase
+$0.007828
+BlueCoin
+$0.002529
+Ixcoin
+$0.067739
+TeslaCoin
+$0.018029
+EncryptoTel [...
+$0.021885
+Bullion
+$1.34
+Crave
+$0.087639
+E-coin
+$3.66
+Carboncoin
+$0.000081
+ChainCoin
+$0.081039
+RussiaCoin
+$0.145597
+Tokenbox
+$0.101458
+GCN Coin
+$0.000007
+HunterCoin
+$0.047892
+WeAreSatoshi
+$0.043369
+EventChain
+$0.033888
+AudioCoin
+$0.001232
+Chronologic
+$1.47
+NobleCoin
+$0.000434
+Version
+$0.001988
+Digitalcoin
+$0.033642
+Motocoin
+$0.050390
+Monster Byte
+$0.055761
+I0Coin
+$0.044299
+Ethbits
+$0.645956
+Farad
+$0.006557
+Universe
+$0.030235
+Obsidian
+$0.034023
+Woodcoin
+$0.104017
+Megacoin
+$0.022415
+Bitswift
+$0.213873
+WorldCoin
+$0.006691
+Commodity Ad ...
+$0.024085
+KekCoin
+$0.072241
+MagicCoin
+$0.100865
+Canada eCoin
+$0.007585
+Etheriya
+$0.466286
+Bowhead
+$0.091548
+Speed Mining ...
+$6.83
+ConnectJob
+$0.006277
+Orbitcoin
+$0.217962
+Unitus
+$0.011648
+NuShares
+$0.000239
+Masternodecoin
+$0.012329
+PetroDollar
+$0.010032
+Dinastycoin
+$0.000369
+Manna
+$0.002230
+The Cypherfunks
+$0.000012
+Cazcoin
+$0.018339
+Verify
+$0.043222
+Renos
+$0.017472
+UniCoin
+$0.190639
+MetalCoin
+$0.007497
+Musiconomi
+$0.020446
+Nitro
+$0.078726
+Authorship
+$0.005578
+Aerium
+$0.004956
+United Crypto...
+$0.400919
+MarteXcoin
+$0.167632
+Elcoin
+$0.045067
+InPay
+$0.050416
+Trollcoin
+$0.000868
+Deutsche eMark
+$0.012525
+Moin
+$0.064763
+EBCH
+$0.052948
+Darcrus
+$0.035960
+NetCoin
+$0.000620
+Cryptonite
+$0.001139
+Jesus Coin
+$0.000026
+Oceanlab
+$0.010204
+Fantasy Cash
+$0.103033
+PopularCoin
+$0.000124
+Origami
+$0.111585
+Digital Money...
+$0.005452
+FlutterCoin
+$0.001053
+Ethereum Movi...
+$0.069945
+FundYourselfNow
+$0.490240
+Tattoocoin (S...
+$0.004956
+InsaneCoin
+$0.020883
+SuperCoin
+$0.009008
+FLiK
+$0.007311
+Bitradio
+$0.065051
+Synergy
+$0.111088
+SmileyCoin
+$0.000016
+HoboNickels
+$0.006505
+Embers
+$0.008285
+Ultimate Secu...
+$0.039893
+bitSilver
+$18.46
+Truckcoin
+$0.001983
+Intelligent T...
+$0.039790
+Startcoin
+$0.008539
+Unify
+$0.021417
+Bitstar
+$0.019613
+Zennies
+$0.000372
+Opal
+$0.024253
+BitBar
+$9.60
+bitBTC
+$6870.17
+BTCtalkcoin
+$0.005390
+LanaCoin
+$0.000372
+AquariusCoin
+$0.186949
+QubitCoin
+$0.001363
+Halcyon
+$0.055761
+ICO OpenLedger
+$0.726411
+Skeincoin
+$0.024844
+Dashcoin
+$0.018897
+Triangles
+$2.88
+Ethereum Cash
+$0.023481
+EthBet
+$0.038925
+Piggycoin
+$0.000661
+BigUp
+$0.000151
+Fastcoin
+$0.002045
+Cream
+$0.007068
+Accelerator N...
+$0.723988
+TittieCoin
+$0.000248
+Elementrem
+$0.011772
+Guncoin
+$0.001363
+TagCoin
+$0.046467
+iTicoin
+$9.28
+Joulecoin
+$0.007978
+PayCoin
+$0.023015
+Aricoin
+$0.001177
+Billionaire T...
+$0.083145
+TrumpCoin
+$0.041153
+Kurrent
+$0.004421
+Bitair
+$0.000378
+PayCon
+$0.011338
+Blakecoin
+$0.013878
+Leviar
+$0.020941
+Rimbit
+$0.001304
+GlobalBoost-Y
+$0.017437
+Minereum
+$0.077009
+Bitgem
+$4.15
+Regalcoin
+$0.019354
+Evil Coin
+$0.011772
+BritCoin
+$0.011524
+Golfcoin
+$0.000186
+Advanced Inte...
+$0.007013
+Ammo Reloaded
+$0.002906
+PiplCoin
+$0.002691
+Sterlingcoin
+$0.052787
+Bit20
+$216,396
+KushCoin
+$0.038847
+VoteCoin
+$0.006571
+PostCoin
+$0.013078
+ChessCoin
+$0.003809
+Prototanium
+$1.04
+CannaCoin
+$0.043555
+Nyancoin
+$0.000620
+BlazeCoin
+$0.000322
+Philosopher S...
+$0.032580
+SmartCoin
+$0.007896
+IrishCoin
+$0.005452
+DaxxCoin
+$0.000372
+Bitcoin Red
+$0.009292
+Freicoin
+$0.006132
+Rubies
+$0.018277
+Datacoin
+$0.005886
+Titcoin
+$0.003775
+Marscoin
+$0.006629
+Gapcoin
+$0.013630
+Mineum
+$0.019268
+Atomic Coin
+$0.010594
+Senderon
+$0.003965
+iCoin
+$0.005762
+UltraCoin
+$0.003593
+LiteBar
+$0.181966
+Ratecoin
+$0.001375
+TOKYO
+$0.000993
+IslaCoin
+$0.109477
+Joincoin
+$0.051981
+GlobalCoin
+$0.002478
+DigiCube
+$0.000066
+MojoCoin
+$0.013038
+SpaceCoin
+$0.006691
+Impact
+$0.001425
+Helleniccoin
+$0.002292
+Pakcoin
+$0.002664
+Signatum
+$0.001425
+Eternity
+$0.034601
+Ethereum Gold
+$0.012515
+DROXNE
+$0.001921
+Octanox
+$0.016728
+bitEUR
+$1.31
+Ccore
+$0.095703
+LeaCoin
+$0.000372
+GoldBlocks
+$0.008837
+ParallelCoin
+$0.436829
+MustangCoin
+$0.214369
+300 Token
+$446.08
+Harvest Maste...
+$0.053902
+Coin2.1
+$0.001672
+Network Token
+$0.008345
+GlobalToken
+$0.004647
+Swing
+$0.037603
+BERNcash
+$0.001797
+DigitalDevelo...
+$0.024652
+NevaCoin
+$0.040157
+StarCash Network
+$0.129241
+Coin(O)
+$0.001177
+ZoZoCoin
+$0.062204
+RevolverCoin
+$0.005204
+OctoCoin
+$0.002168
+Jin Coin
+$0.011896
+Influxcoin
+$0.069763
+Darsek
+$0.005080
+Pascal Lite
+$0.022986
+BumbaCoin
+$0.004956
+Bolivarcoin
+$0.010429
+Sativacoin
+$0.015629
+Bitcoin 21
+$0.138906
+SecretCoin
+$0.025960
+Dollarcoin
+$0.011834
+C-Bit
+$0.000681
+Bitcoin Fast
+$0.006939
+CoinonatX
+$0.005452
+Zurcoin
+$0.001177
+ParkByte
+$0.021561
+Safe Trade Coin
+$0.000310
+MACRON
+$0.000248
+Quatloo
+$0.012825
+Debitcoin
+$0.005452
+Granite
+$0.002478
+Acoin
+$0.079114
+SecureCoin
+$0.010904
+RonPaulCoin
+$0.100245
+X-Coin
+$0.007682
+8Bit
+$0.063319
+ChanCoin
+$0.009851
+EcoCoin
+$0.078991
+Fujinto
+$0.001378
+Prime-XI
+$0.004201
+Crypto
+$0.006489
+Tokugawa
+$0.086181
+Catcoin
+$0.013135
+Shadow Token
+$0.012267
+TajCoin
+$0.008736
+YENTEN
+$0.009919
+Bankcoin
+$0.008146
+Ethereum Dark
+$0.055761
+BoostCoin
+$0.006872
+Global Tour Coin
+$0.002726
+Grimcoin
+$0.000372
+RedCoin
+$0.001053
+BOAT
+$0.001053
+Money
+$0.001611
+SixEleven
+$0.163874
+Eurocoin
+$0.005909
+Polcoin
+$0.000929
+Eryllium
+$0.005667
+Neuro
+$0.001301
+Virtacoin
+$0.000014
+AmsterdamCoin
+$0.001425
+SOILcoin
+$0.012515
+AllSafe
+$0.008608
+BitQuark
+$0.006753
+Theresa May Coin
+$0.001301
+Dalecoin
+$0.147166
+Quebecoin
+$0.004399
+Allion
+$0.010897
+Nekonium
+$0.005576
+HomeBlockCoin
+$0.013321
+Digital Rupees
+$0.000124
+Mincoin
+$0.013630
+GoldPieces
+$0.049105
+ICOBID
+$0.000558
+BROTHER
+$0.000372
+Bitcoin Planet
+$0.008674
+Elysium
+$0.004523
+SoonCoin
+$0.004523
+Steneum Coin
+$0.019509
+Dreamcoin
+$0.022614
+Trident Group
+$0.044797
+Visio
+$0.001053
+Useless Ether...
+$0.013425
+CacheCoin
+$0.012391
+Comet
+$0.058276
+JavaScript Token
+$0.006258
+Litecred
+$0.001611
+VapersCoin
+$0.000062
+FUNCoin
+$0.008090
+Flaxscript
+$0.008366
+Californium
+$0.019021
+BenjiRolls
+$0.002251
+BitCoal
+$0.009931
+CompuCoin
+$0.002230
+SongCoin
+$0.001327
+PIECoin
+$0.003903
+Honey
+$0.092891
+Creatio
+$0.002045
+Veltor
+$0.075525
+BipCoin
+$0.025629
+FuzzBalls
+$0.008604
+Marijuanacoin
+$0.025154
+Roofs
+$0.000310
+GuccioneCoin
+$0.001921
+Independent M...
+$0.007187
+VectorAI
+$0.002107
+Gold Pressed ...
+$0.143367
+PoSToken
+$0.034368
+Virta Unique ...
+$0.000558
+Zayedcoin
+$0.005514
+JobsCoin
+$0.000310
+Iconic
+$0.055017
+BnrtxCoin
+$0.000990
+ExchangeN
+$0.006196
+Phantomx
+$0.001128
+Pioneer Coin
+$0.010427
+Coinonat
+$0.003445
+Luna Coin
+$0.017100
+LetItRide
+$0.000743
+PonziCoin
+$0.031457
+PLNcoin
+$0.001549
+MiloCoin
+$0.002422
+Slevin
+$0.000372
+Kronecoin
+$0.003532
+GeertCoin
+$0.004709
+ARbit
+$0.002850
+KingN Coin
+$11.15
+Bolenum
+$0.002230
+PlayerCoin
+$0.000558
+PosEx
+$0.007621
+LiteCoin Ultra
+$0.017937
+Cannation
+$0.007311
+BowsCoin
+$0.002912
+Save and Gain
+$0.005266
+Credence Coin
+$0.004347
+Argus
+$0.011638
+Bitvolt
+$0.000805
+Royal Kingdom...
+$0.004771
+PRCoin
+$0.000558
+Dollar Online
+$0.015282
+GlassCoin
+$0.003593
+Concoin
+$0.014807
+AnarchistsPrime
+$0.002416
+iBank
+$0.001983
+Coimatic 2.0
+$0.000558
+Interzone
+$0.002354
+Rawcoin
+$0.007497
+CrevaCoin
+$0.000124
+Magnum
+$0.000991
+Coimatic 3.0
+$0.001830
+Vault Coin
+$0.000124
+Project-X
+$43369.40
+Ulatech
+$0.011364
+Artex Coin
+$0.000124
+LevoPlus
+$0.000964
+Tristar Coin
+$0.000191
+POLY AI
+$0.000117
+CK USD
+$0.987340
+Project Pai
+$0.992654
+Coni
+$0.107895
+DaTa eXchange
+$0.051039
+Penta
+$0.004885
+GoNetwork
+$0.697108
+ATMCoin
+$3.99
+Infinity Econ...
+$0.007357
+Bit-Z Token
+$0.220038
+Sentinel Prot...
+$0.054938
+Cardstack
+$0.005555
+InvestDigital
+$0.023936
+ZIP
+$0.004193
+RealChain
+$0.038033
+Kcash
+$0.067532
+BitcoinX
+$0.012986
+Content Neutr...
+$0.001577
+Cybereits
+$0.016665
+EduCoin
+$0.001512
+OFCOIN
+$0.000680
+Content and A...
+$0.012373
+Skrumble Network
+$0.018617
+Libra Credit
+$0.106607
+DWS
+$1.91
+Tripio
+$0.008131
+CoinMeet
+$0.026632
+Super Bitcoin
+$5.00
+UnlimitedIP
+$0.011195
+Dorado
+$0.012918
+FuturoCoin
+$10.25
+Global Social...
+$0.045903
+Dignity
+$0.088910
+Molecular Future
+$0.233528
+Seele
+$0.192651
+InsurChain
+$0.001603
+Super Game Chain
+$0.002165
+Acute Angle C...
+$0.028262
+ChatCoin
+$0.042082
+LightChain
+$0.000687
+Freyrchain
+$0.008486
+StarChain
+$0.027495
+HashCoin
+$0.002327
+HalalChain
+$0.063028
+POPCHAIN
+$0.031390
+DigiFinexToken
+$0.622497
+Egretia
+$0.009778
+Lightning Bit...
+$11.31
+Filecoin [Fut...
+$6.12
+Metronome
+$2.59
+Open Platform
+$0.071773
+United Bitcoin
+$4.37
+FansTime
+$0.006503
+Exchange Union
+$5.08
+Read
+$0.008979
+Intelligent I...
+$0.001971
+MyToken
+$0.012239
+Influence Chain
+$0.106462
+Aurora
+$0.046985
+CarBlock
+$0.022874
+Wowbit
+$0.219896
+Engine
+$0.001440
+SEER
+$0.005952
+Maggie
+$0.006276
+OceanChain
+$0.001404
+EJOY
+$0.001098
+Level Up Coin
+$0.005276
+TopChain
+$0.016886
+Show
+$0.002208
+BeeKan
+$0.007309
+Karatgold Coin
+$0.008169
+Rublix
+$0.182297
+FairGame
+$0.009448
+StarCoin
+$0.009751
+TRAXIA
+$0.016610
+ValueChain
+$0.035897
+Loopring [NEO]
+$0.251667
+KEY
+$0.004718
+0xcert
+$0.037926
+Dragon Coins
+$0.280684
+SalPay
+$0.060587
+OTCBTC Token
+$0.188010
+Aidos Kuneen
+$16.73
+STEX
+$1.18
+Essentia
+$0.022806
+Rhenium
+$0.045414
+StockChain
+$0.003755
+Mossland
+$0.059987
+Saifu
+$0.059044
+Vipstar Coin
+$0.000248
+IPChain
+$0.476217
+LikeCoin
+$0.007718
+Etherecash
+$0.013201
+SPINDLE
+$0.007871
+Monero Classic
+$2.67
+PressOne
+$0.134808
+WETH
+$429.67
+Bankera
+$0.003918
+Consensus
+$0.015708
+Crowdholding
+$0.002167
+Pixie Coin
+$0.001502
+TraDove B2BCoin
+$0.019597
+Jingtum Tech
+$0.003750
+WINCOIN
+$0.419377
+Dascoin
+$0.093724
+EA Coin
+$0.003098
+iQuant
+$0.034881
+Qube
+$0.012054
+Couchain
+$0.000088
+Sphre AIR 
+$0.091722
+ORS Group
+$0.045212
+Fargocoin
+$0.245437
+SegWit2x
+$0.296524
+SnowGem
+$0.172893
+COMSA [ETH]
+$0.211858
+Bittwatt
+$0.033946
+SnipCoin
+$0.000437
+Bodhi [ETH]
+$0.063130
+BlockCDN
+$0.010415
+ERC20
+$0.891964
+Ether Zero
+$0.166871
+Electronic PK...
+$0.034169
+COMSA [XEM]
+$0.218372
+Infinitecoin
+$0.000029
+Bitcoin God
+$13.08
+AC3
+$0.142914
+ClubCoin
+$0.399866
+Candy
+$0.000173
+GameChain System
+$0.003035
+W3Coin
+$0.000338
+Hyper Pay
+$0.008668
+MSD
+$0.003345
+BlockMesh
+$0.008178
+Animation Vis...
+$0.003423
+Monero Original
+$2.73
+ContractNet
+$0.201420
+Swisscoin
+$0.000372
+Decentralized...
+$0.028545
+EDRCoin
+$0.141037
+Animecoin
+$0.006567
+President Trump
+$0.010824
+TeslaCoilCoin
+$1.86
+President Joh...
+$0.024968
+First Bitcoin...
+$0.069825
+Internet of T...
+$137.17
+Golos Gold
+$0.038533
+ZenGold
+$0.009985
+WA Space
+$0.004213
+Pabyosi Coin ...
+$0.082166
+XTD Coin
+$0.000062
+EmberCoin
+$3.4e-07
+CryptopiaFeeS...
+$690.23
+Hero
+$0.093169
+Powercoin
+$0.000001
+SuperNET
+$38.53
+TerraNova
+$1.58
+MIRQ
+$0.004709
+Cropcoin
+$0.003408
+Arbitracoin
+$0.006134
+Slothcoin
+$0.000002
+BT2 [CST]
+$18.44
+Budbo
+$0.015782
+ERA
+$0.014501
+Francs
+$0.009049
+BitSoar
+$0.000186
+High Gain
+$0.000124
+CORION
+$0.061956
+Superior Coin
+$0.000342
+Curriculum Vitae
+$0.003763
+Lendroid Supp...
+$0.002958
+Huncoin
+$0.000620
+Regacoin
+$0.000434
+DynamicCoin
+$0.000251
+Tattoocoin (L...
+$0.681705
+BitSerial
+$0.003036
+Bastonet
+$0.000062
+GrandCoin
+$0.000186
+Sakuracoin
+$0.001859
+NamoCoin
+$0.000186
+Alphabit
+$30.64
+Levocoin
+$0.000372
+SJWCoin
+$0.000248
+Indicoin
+$0.013011
+Quotient
+$0.001705
+BTCMoon
+$0.003042
+RabbitCoin
+$0.000030
+Cloud
+$0.029319
+SHACoin
+$0.000743
+Magnetcoin
+$0.050494
+MarxCoin
+$0.001199
+Wi Coin
+$0.000558
+EncryptoTel [...
+$0.028996
+Storjcoin X
+$0.621635
+Smoke
+$0.042815
+CoffeeCoin
+$0.000929
+UniversalRoya...
+$0.000252
+KlondikeCoin
+$0.009913
+GOLD Reward T...
+$0.004038
+Ethereum Lite
+$0.223104
+First Bitcoin
+$0.011338
+LandCoin
+$0.001983
+Protean
+$0.000013
+FAPcoin
+$0.000434
+Aseancoin
+$0.003965
+ShellCoin
+$0.019950
+BetaCoin
+$0.001239
+Donationcoin
+$0.000620
+GoldMaxCoin
+$0.000372
+EtherDelta Token
+$0.001946
+AvatarCoin
+$0.032527
+UGAIN
+$0.000739
+BlazerCoin
+$0.000705
+Bitbase
+$0.000496
+Dutch Coin
+$0.000310
+Minex
+$0.003949
+HODL Bucks
+$0.016171
+Wink
+$0.000310
+Axiom
+$0.007559
+Antimatter
+$0.000124
+PlexCoin
+$0.005886
+Akuya Coin
+$0.001797
+REPO
+$0.079767
+Avoncoin
+$0.000186
+ZSEcoin
+$0.004151
+Runners
+$0.000186
+Aces
+$0.000124
+T-coin
+$0.000124
+RichCoin
+$0.002726
+Rcoin
+$0.000062
+Tellurion
+$0.000345
+TopCoin
+$0.000801
+CryptCoin
+$0.073105
+PROUD Money
+$0.024152
+Cubits
+$0.001238
+UR
+$0.000636
+Halloween Coin
+$0.000192
+Cheapcoin
+$0.000253
+TurboCoin
+$0.000064
+Rupee
+$0.024946
+Royalties
+$0.000040
+Birds
+$0.000127
+SIGMAcoin
+$0.008875
+Cyder
+$0.001145
+NEO GOLD
+$0.000866
+StrikeBitClub
+$0.000864
+BigONE Token
+$0.948669
+ACChain
+$0.158730
+Hyper
+$0.006502
+Vcash
+?
+Sharkcoin
+$0.001811
+EggCoin
+$0.010897
+Bubble
+$0.004680
+PrismChain
+$0.000700
+Omicron
+$0.058487
+BioBar
+$0.013489
+Bitok
+$0.000064
+SISA
+$0.006557
+ENTCash
+$0.024932
+NumusCash
+$0.000063
+FCoin Token
+?
