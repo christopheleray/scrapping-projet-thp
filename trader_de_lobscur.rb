@@ -30,13 +30,15 @@ end
 #binding.pry
 
 def perform
- liste_crypto = {}
- liste_crypto = cryptomonnaies_name.zip(cryptomonnaies_price)
- fname = "liste_crypto.txt"
+  loop do 
+  liste_crypto = {}
+  liste_crypto = cryptomonnaies_name.zip(cryptomonnaies_price)
+  fname = "liste_crypto.txt"
   somefile = File.open(fname,"w")
   somefile.puts liste_crypto
   somefile.close
-  sleep (60)
+  sleep (3660)
+  end
 end
 
 perform
