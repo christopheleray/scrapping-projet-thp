@@ -6,9 +6,9 @@ require 'open-uri'
 require 'rubygems'
 require 'whenever'
 
-
+# Methode permettant de récupérer tout les prix des cryptomonnaies
+# et de stocker dans un array 'price'
 def cryptomonnaies_price 
-  crypto_name = []
   price = []
     doc = Nokogiri::HTML(open('https://coinmarketcap.com/all/views/all/'))
     doc.xpath('//td/a[@class ="price"]').each do |node|
@@ -17,7 +17,8 @@ def cryptomonnaies_price
   return price
 end
 
-
+# Methode permettant de récupérer tout les noms des cryptomonnaies
+# et de stocker dans un array 'crypto_name'
 def cryptomonnaies_name
   crypto_name = []
   doc = Nokogiri::HTML(open('https://coinmarketcap.com/all/views/all/'))
@@ -32,8 +33,8 @@ end
 def perform
   loop do 
   liste_crypto = {}
-  liste_crypto = cryptomonnaies_name.zip(cryptomonnaies_price)
-  fname = "liste_crypto.txt"
+  puts liste_crypto = cryptomonnaies_name.zip(cryptomonnaies_price)
+  fname = "liste_crypto.txt" #stockage des données dans le fichier liste_crpyto.txt
   somefile = File.open(fname,"w")
   somefile.puts liste_crypto
   somefile.close
